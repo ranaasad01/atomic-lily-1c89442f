@@ -1,0 +1,377 @@
+{
+  "nav": {
+    "shop": "Tienda",
+    "cart": "Carrito",
+    "brand": "Lily's Bracelet Shop"
+  },
+  "footer": {
+    "tagline": "Hecho a mano con amor, una cuenta a la vez 🌸",
+    "madeWith": "Hecho con",
+    "byMaker": "por Lily",
+    "quickLinks": "Enlaces Rápidos",
+    "funFactTitle": "¿Sabías que? ✨",
+    "funFact": "¡Cada pulsera viene con una pequeña nota de agradecimiento escrita por mí! Espero que te haga sonreír. 💌",
+    "copyright": "© 2024 Lily's Bracelet Shop. Todos los derechos reservados.",
+    "handmade": "100% hecho a mano con amor",
+    "rights": "Hecho por Lily"
+  },
+  "hero": {
+    "heading": "¡Bienvenido a Mi Tienda de Pulseras! 🌸",
+    "body": "¡Hago cada pulsera a mano, solo para ti! Me encanta elegir las cuentas y adornos más bonitos. ¡Espero que encuentres algo que realmente te encante!",
+    "cta": "Comprar Ahora",
+    "pill": "Hecho a mano con amor 🌸",
+    "title": "¡Pulseras hechas solo para ti!",
+    "subtitle": "¡Cada pulsera es hecha a mano por mí, Lily! Elijo las cuentas más bonitas y las ensarto con mucho cuidado. Encuentra tu color favorito y úsalo todos los días.",
+    "cartLink": "Ver Carrito",
+    "badge": "✨ Hecho a mano con amor, una cuenta a la vez",
+    "secondary": "Cómo las hago"
+  },
+  "about": {
+    "heading": "¡Hola, soy la fabricante de pulseras! 👋",
+    "body": "Mi nombre es Lily y tengo 10 años. Comencé a hacer pulseras porque ¡quería una en cada color! Ahora las hago para todos. Cada pulsera está hecha con mucho cuidado y un poco de brillo ✨. ¡Espero que usar una te haga sonreír!"
+  },
+  "products": {
+    "heading": "Mis Pulseras 🌈",
+    "body": "¡Elige tu favorita! Haz clic en cualquier pulsera para ver más fotos y aprender de qué está hecha.",
+    "cta": "Ver Todas las Pulseras"
+  },
+  "cta": {
+    "heading": "¿Quieres ver más pulseras?",
+    "body": "Cada pulsera está hecha a mano con mucho amor. ¡Consigue la tuya antes de que se agote!",
+    "button": "Explora toda la tienda",
+    "sub": "¡Hay muchos más colores y estilos esperándote en la tienda!",
+    "title": "¿Listo para encontrar tu pulsera perfecta?",
+    "subtitle": "¡Desplázate hacia arriba y elige tu color favorito. Cada pulsera es única, ¡como tú!",
+    "btn": "Compra la colección"
+  },
+  "cart": {
+    "heading": "Mi Carrito",
+    "body": "¡Aquí están todas las pulseras que elegiste! Puedes cambiar cuántas quieres o quitar una.",
+    "emptyHeading": "¡Tu carrito está vacío! 🌸",
+    "emptyBody": "¡Ve a elegir algunas pulseras, te están esperando!",
+    "emptyButton": "Comprar Ahora",
+    "checkoutHeading": "¿Listo para recibir tus pulseras? 🌸",
+    "checkoutBody": "¡Haz clic en el botón de abajo y lo arreglaremos todo! Empaco cada pedido con amor extra y una pequeña nota de agradecimiento. 💌",
+    "checkoutButton": "Ir a Pagar",
+    "remove": "Eliminar artículo",
+    "continueShopping": "Seguir Comprando",
+    "badge": "🛍️ Tu Carrito",
+    "itemCount": "¡{count} artículos listos!",
+    "itemsLabel": "Artículos del carrito",
+    "summaryLabel": "Resumen del pedido",
+    "handmadeNote": "Cada pulsera está hecha a mano por mí con mucho amor. ¡Gracias por comprar aquí!",
+    "decrease": "Disminuir cantidad",
+    "increase": "Aumentar cantidad",
+    "empty": {
+      "title": "¡Tu carrito está vacío!",
+      "subtitle": "Parece que aún no has añadido ninguna pulsera. ¡Ve a elegir tus favoritas!",
+      "cta": "Explorar la Tienda"
+    },
+    "summary": {
+      "title": "Resumen del Pedido",
+      "subtotal": "Subtotal",
+      "shipping": "Envío",
+      "free": "GRATIS",
+      "total": "Total",
+      "checkout": "Proceder al Pago",
+      "continueShopping": "Seguir Comprando",
+      "freeShippingProgress": "¡Gasta {amount} más para envío gratis!",
+      "freeShippingUnlocked": "¡Desbloqueaste envío gratis!"
+    },
+    "title": "Tu Carrito"
+  },
+  "product": {
+    "addToCart": "Añadir al Carrito",
+    "backToShop": "Volver a la Tienda",
+    "inStock": "En stock",
+    "outOfStock": "Agotado",
+    "quantity": "Cantidad",
+    "related": "También te puede gustar 💕",
+    "viewDetails": "Ver Detalles",
+    "breadcrumbShop": "Tienda",
+    "prevImage": "Imagen anterior",
+    "nextImage": "Siguiente imagen",
+    "thumbnailAlt": "Foto de pulsera {n}",
+    "reviewCount": "{count} reseñas satisfechas",
+    "quantityLabel": "¿Cuántas?",
+    "decreaseQty": "Disminuir cantidad",
+    "increaseQty": "Aumentar cantidad",
+    "addedToCart": "¡Añadido! 🎉",
+    "wishlistLabel": "Añadir a favoritos",
+    "materialsTitle": "De qué está hecho ✨",
+    "careTitle": "Cómo cuidarlo 💧",
+    "relatedTitle": "¡También te pueden encantar estos!",
+    "relatedSubtitle": "Más pulseras hechas a mano, creadas especialmente para ti 🌈",
+    "ctaTitle": "¿Quieres verlo todo?",
+    "ctaSubtitle": "¡Vuelve a la tienda para encontrar tu pulsera perfecta!",
+    "ctaButton": "Volver a la Tienda",
+    "handmadeLabel": "Hecho a mano",
+    "reviews": "Opiniones de Clientes",
+    "colorLabel": "Color",
+    "sizeLabel": "Tamaño",
+    "added": "¡Añadido!",
+    "materialsLabel": "Materiales",
+    "wishlist": "Añadir a favoritos",
+    "imageThumb": "Ver imagen",
+    "aboutTitle": "Sobre Este Producto",
+    "decrease": "Disminuir",
+    "increase": "Aumentar",
+    "materials": [
+      "Glass seed beads",
+      "Stretchy elastic cord",
+      "Gold-tone spacer beads"
+    ],
+    "care": [
+      "Keep away from water and swimming pools",
+      "Store in a cool dry place",
+      "Put on last, take off first"
+    ],
+    "perks": [
+      {
+        "icon": "sparkles",
+        "label": "Handmade with love 🌸"
+      },
+      {
+        "icon": "truck",
+        "label": "Posted with care 📦"
+      },
+      {
+        "icon": "shield",
+        "label": "Happy returns 😊"
+      }
+    ]
+  },
+  "shop": {
+    "heading": "Todas Mis Pulseras",
+    "subheading": "Elige un estilo que te encante — ¡cada una es única!",
+    "addToCart": "Añadir a la Bolsa",
+    "title": "¡Elige tu favorita!",
+    "subtitle": "Todas las pulseras están hechas a mano y listas para usar. ¡Toca una para verla de cerca!",
+    "viewBtn": "¡Verla!"
+  },
+  "howItWorks": {
+    "heading": "Cómo Funciona",
+    "subheading": "¡Conseguir tu pulsera es súper fácil y divertido!",
+    "steps": [
+      {
+        "emoji": "👀",
+        "title": "Pick Your Favourite",
+        "desc": "Browse all my bracelets and tap the one you love most."
+      },
+      {
+        "emoji": "🛍️",
+        "title": "Add It to Your Bag",
+        "desc": "Hit the Add to Bag button and it goes straight into your cart."
+      },
+      {
+        "emoji": "📦",
+        "title": "I Send It to You!",
+        "desc": "I wrap it up carefully and post it to you with a little note inside."
+      }
+    ]
+  },
+  "reviews": {
+    "heading": "Qué dicen las personas 💬",
+    "subheading": "¡Opiniones reales de verdaderos amantes de pulseras!",
+    "basedOn": "Basado en",
+    "reviews": "Descubre qué les encanta de estas pulseras",
+    "title": "Qué dicen las personas",
+    "subtitle": "¡Opiniones reales de verdaderos amantes de pulseras!",
+    "items": [
+      {
+        "name": "Mia, age 9",
+        "text": "I got the Rainbow Sunshine one and I wear it every single day. My friends all want one too!",
+        "stars": 5
+      },
+      {
+        "name": "Sophie's mum",
+        "text": "Bought three as birthday presents and they arrived beautifully wrapped. The girls absolutely loved them!",
+        "stars": 5
+      },
+      {
+        "name": "Ella, age 11",
+        "text": "The Galaxy Glitter bracelet is SO sparkly. It looks amazing with everything I wear.",
+        "stars": 5
+      }
+    ]
+  },
+  "breadcrumb": {
+    "shop": "Tienda"
+  },
+  "related": {
+    "heading": "También te pueden encantar 🌈"
+  },
+  "valueProps": {
+    "title": "Por qué mis pulseras son especiales",
+    "subtitle": "¡Pongo mucho amor en cada una!",
+    "items": [
+      {
+        "icon": "heart",
+        "title": "Made by hand",
+        "desc": "I make every bracelet myself at my craft table. No machines, just me and my beads!"
+      },
+      {
+        "icon": "sparkles",
+        "title": "Bright and sparkly",
+        "desc": "I only use the shiniest, most colourful beads I can find. Your wrist will look amazing!"
+      },
+      {
+        "icon": "truck",
+        "title": "Sent with care",
+        "desc": "Each bracelet is wrapped in tissue paper and posted in a little gift bag. So exciting to open!"
+      },
+      {
+        "icon": "refresh",
+        "title": "Made to last",
+        "desc": "I use strong elastic so your bracelet stays on all day, even at the park or the pool!"
+      }
+    ]
+  },
+  "about-maker": [
+    "I make every bracelet myself — no machines!",
+    "I use colourful beads, shiny charms, and stretchy cord",
+    "Every order gets a little thank-you note from me 💌"
+  ],
+  "product-grid": [
+    {
+      "id": "rainbow-beaded",
+      "name": "Rainbow Beaded Bracelet",
+      "price": "£4.00",
+      "priceNum": 4.0,
+      "description": "Bright, stretchy, and super fun! Made with colourful glass beads.",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=beaded%20bracelet",
+      "badge": "Bestseller"
+    },
+    {
+      "id": "golden-star",
+      "name": "Golden Star Charm Bracelet",
+      "price": "£5.50",
+      "priceNum": 5.5,
+      "description": "Shiny gold stars on a delicate chain. Perfect for feeling fancy! ⭐",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=gold%20star%20bracelet",
+      "badge": "New"
+    },
+    {
+      "id": "friendship-knot",
+      "name": "Friendship Knot Bracelet",
+      "price": "£3.00",
+      "priceNum": 3.0,
+      "description": "Tie it on a friend's wrist and make a wish! Comes in pink, blue, and purple.",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=friendship%20bracelet",
+      "badge": ""
+    },
+    {
+      "id": "pink-heart",
+      "name": "Pink Heart Bracelet",
+      "price": "£4.50",
+      "priceNum": 4.5,
+      "description": "Soft pink beads with a little heart charm in the middle. So cute! 💕",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=pink%20heart%20bracelet",
+      "badge": "Favourite"
+    },
+    {
+      "id": "ocean-wave",
+      "name": "Ocean Wave Bracelet",
+      "price": "£5.00",
+      "priceNum": 5.0,
+      "description": "Blue and white beads that look just like the sea 🌊",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=blue%20ocean%20bracelet",
+      "badge": ""
+    },
+    {
+      "id": "sunflower-daisy",
+      "name": "Sunflower Daisy Bracelet",
+      "price": "£4.00",
+      "priceNum": 4.0,
+      "description": "Yellow and green beads with a tiny sunflower charm. Brings sunshine everywhere! 🌻",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=sunflower%20bracelet",
+      "badge": ""
+    },
+    {
+      "id": "strawberry-charm",
+      "name": "Strawberry Charm Bracelet",
+      "price": "£5.00",
+      "priceNum": 5.0,
+      "description": "Red beads and a sweet strawberry charm. My personal favourite! 🍓",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=strawberry%20bracelet",
+      "badge": "My Fave"
+    },
+    {
+      "id": "purple-galaxy",
+      "name": "Purple Galaxy Bracelet",
+      "price": "£4.50",
+      "priceNum": 4.5,
+      "description": "Dark purple and silver beads that sparkle like outer space 🪐",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=purple%20galaxy%20bracelet",
+      "badge": ""
+    }
+  ],
+  "cart-items": [
+    {
+      "name": "Sunny Beads Bracelet",
+      "description": "blush pink and gold beads, so pretty! ✨",
+      "price": 6.0,
+      "currency": "£",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=pink%20heart%20bracelet"
+    },
+    {
+      "name": "BFF Friendship Bracelet",
+      "description": "rainbow threads, great for sharing with your bestie 🌈",
+      "price": 4.0,
+      "currency": "£",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=friendship%20bracelet"
+    },
+    {
+      "name": "Golden Star Charm Bracelet",
+      "description": "tiny gold stars on a stretchy band ⭐",
+      "price": 7.5,
+      "currency": "£",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=gold%20star%20bracelet"
+    },
+    {
+      "name": "Terracotta Clay Bead Bracelet",
+      "description": "earthy orange beads I made by hand 🍊",
+      "price": 5.5,
+      "currency": "£",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=beaded%20bracelet"
+    }
+  ],
+  "order-summary": [
+    {
+      "label": "Subtotal",
+      "value": "£23.00"
+    },
+    {
+      "label": "Shipping",
+      "value": "FREE 🎀"
+    },
+    {
+      "label": "Tax",
+      "value": "£1.84"
+    },
+    {
+      "label": "Grand Total",
+      "value": "£24.84"
+    }
+  ],
+  "perks": {
+    "items": [
+      {
+        "label": "Free UK Delivery",
+        "desc": "On all orders over £10"
+      },
+      {
+        "label": "Easy Returns",
+        "desc": "7-day no-fuss returns"
+      },
+      {
+        "label": "Safe & Secure",
+        "desc": "Handmade with care"
+      },
+      {
+        "label": "Unique & Special",
+        "desc": "No two are the same!"
+      }
+    ]
+  }
+}

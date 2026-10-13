@@ -1,0 +1,377 @@
+{
+  "nav": {
+    "shop": "Shop",
+    "cart": "Cart",
+    "brand": "Lily's Bracelet Shop"
+  },
+  "footer": {
+    "tagline": "Handmade with love, one bead at a time 🌸",
+    "madeWith": "Made with",
+    "byMaker": "by Lily",
+    "quickLinks": "Quick Links",
+    "funFactTitle": "Did you know? ✨",
+    "funFact": "Every bracelet comes with a little thank-you note written by me! I hope it makes you smile. 💌",
+    "copyright": "© 2024 Lily's Bracelet Shop. All rights reserved.",
+    "handmade": "100% handmade with love",
+    "rights": "Made by Lily"
+  },
+  "hero": {
+    "heading": "Welcome to My Bracelet Shop! 🌸",
+    "body": "I make every single bracelet by hand, just for you! I love picking out the prettiest beads and charms. I hope you find something you really love!",
+    "cta": "Shop Now",
+    "pill": "Handmade with love 🌸",
+    "title": "Bracelets made just for you!",
+    "subtitle": "Every bracelet is handmade by me, Lily! I pick the prettiest beads and string them together with lots of care. Find your favourite colour and wear it every day.",
+    "cartLink": "View Cart",
+    "badge": "✨ Handmade with love, one bead at a time",
+    "secondary": "How I make them"
+  },
+  "about-maker": [
+    "I make every bracelet myself — no machines!",
+    "I use colourful beads, shiny charms, and stretchy cord",
+    "Every order gets a little thank-you note from me 💌"
+  ],
+  "about": {
+    "heading": "Hi, I'm the bracelet maker! 👋",
+    "body": "My name is Lily and I am 10 years old. I started making bracelets because I wanted one in every colour! Now I make them for everyone. Each bracelet is made with lots of care and a little bit of glitter ✨. I hope wearing one makes you smile!"
+  },
+  "product-grid": [
+    {
+      "id": "rainbow-beaded",
+      "name": "Rainbow Beaded Bracelet",
+      "price": "£4.00",
+      "priceNum": 4.0,
+      "description": "Bright, stretchy, and super fun! Made with colourful glass beads.",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=beaded%20bracelet",
+      "badge": "Bestseller"
+    },
+    {
+      "id": "golden-star",
+      "name": "Golden Star Charm Bracelet",
+      "price": "£5.50",
+      "priceNum": 5.5,
+      "description": "Shiny gold stars on a delicate chain. Perfect for feeling fancy! ⭐",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=gold%20star%20bracelet",
+      "badge": "New"
+    },
+    {
+      "id": "friendship-knot",
+      "name": "Friendship Knot Bracelet",
+      "price": "£3.00",
+      "priceNum": 3.0,
+      "description": "Tie it on a friend's wrist and make a wish! Comes in pink, blue, and purple.",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=friendship%20bracelet",
+      "badge": ""
+    },
+    {
+      "id": "pink-heart",
+      "name": "Pink Heart Bracelet",
+      "price": "£4.50",
+      "priceNum": 4.5,
+      "description": "Soft pink beads with a little heart charm in the middle. So cute! 💕",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=pink%20heart%20bracelet",
+      "badge": "Favourite"
+    },
+    {
+      "id": "ocean-wave",
+      "name": "Ocean Wave Bracelet",
+      "price": "£5.00",
+      "priceNum": 5.0,
+      "description": "Blue and white beads that look just like the sea 🌊",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=blue%20ocean%20bracelet",
+      "badge": ""
+    },
+    {
+      "id": "sunflower-daisy",
+      "name": "Sunflower Daisy Bracelet",
+      "price": "£4.00",
+      "priceNum": 4.0,
+      "description": "Yellow and green beads with a tiny sunflower charm. Brings sunshine everywhere! 🌻",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=sunflower%20bracelet",
+      "badge": ""
+    },
+    {
+      "id": "strawberry-charm",
+      "name": "Strawberry Charm Bracelet",
+      "price": "£5.00",
+      "priceNum": 5.0,
+      "description": "Red beads and a sweet strawberry charm. My personal favourite! 🍓",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=strawberry%20bracelet",
+      "badge": "My Fave"
+    },
+    {
+      "id": "purple-galaxy",
+      "name": "Purple Galaxy Bracelet",
+      "price": "£4.50",
+      "priceNum": 4.5,
+      "description": "Dark purple and silver beads that sparkle like outer space 🪐",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=purple%20galaxy%20bracelet",
+      "badge": ""
+    }
+  ],
+  "products": {
+    "heading": "My Bracelets 🌈",
+    "body": "Pick your favourite! Click on any bracelet to see more pictures and learn what it's made of.",
+    "cta": "See All Bracelets"
+  },
+  "cta": {
+    "heading": "Want to see more bracelets?",
+    "body": "Every bracelet is made by hand with lots of love. Grab yours before it sells out!",
+    "button": "Browse the whole shop",
+    "sub": "There are loads more colours and styles waiting for you in the shop!",
+    "title": "Ready to find your perfect bracelet?",
+    "subtitle": "Scroll back up and pick your favourite colour. Every bracelet is one of a kind, just like you!",
+    "btn": "Shop the collection"
+  },
+  "cart": {
+    "heading": "My Cart",
+    "body": "Here are all the bracelets you picked! You can change how many you want or take one out.",
+    "emptyHeading": "Your cart is empty! 🌸",
+    "emptyBody": "Go pick some bracelets — they're waiting for you!",
+    "emptyButton": "Shop Now",
+    "checkoutHeading": "Ready to get your bracelets? 🌸",
+    "checkoutBody": "Click the button below and we'll sort everything out! I pack every order with extra love and a little thank-you note. 💌",
+    "checkoutButton": "Go to Checkout",
+    "remove": "Remove item",
+    "continueShopping": "Continue Shopping",
+    "badge": "🛍️ Your Basket",
+    "itemCount": "{count} items ready to go!",
+    "itemsLabel": "Cart items",
+    "summaryLabel": "Order summary",
+    "handmadeNote": "Every bracelet is handmade by me with lots of love. Thank you so much for shopping here!",
+    "decrease": "Decrease quantity",
+    "increase": "Increase quantity",
+    "empty": {
+      "title": "Your basket is empty!",
+      "subtitle": "Looks like you haven't added any bracelets yet. Go pick your favourites!",
+      "cta": "Browse the Shop"
+    },
+    "summary": {
+      "title": "Order Summary",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "free": "FREE",
+      "total": "Total",
+      "checkout": "Proceed to Checkout",
+      "continueShopping": "Continue Shopping",
+      "freeShippingProgress": "Spend {amount} more for free shipping!",
+      "freeShippingUnlocked": "You unlocked free shipping!"
+    },
+    "title": "Your Cart"
+  },
+  "cart-items": [
+    {
+      "name": "Sunny Beads Bracelet",
+      "description": "blush pink and gold beads, so pretty! ✨",
+      "price": 6.0,
+      "currency": "£",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=pink%20heart%20bracelet"
+    },
+    {
+      "name": "BFF Friendship Bracelet",
+      "description": "rainbow threads, great for sharing with your bestie 🌈",
+      "price": 4.0,
+      "currency": "£",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=friendship%20bracelet"
+    },
+    {
+      "name": "Golden Star Charm Bracelet",
+      "description": "tiny gold stars on a stretchy band ⭐",
+      "price": 7.5,
+      "currency": "£",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=gold%20star%20bracelet"
+    },
+    {
+      "name": "Terracotta Clay Bead Bracelet",
+      "description": "earthy orange beads I made by hand 🍊",
+      "price": 5.5,
+      "currency": "£",
+      "image": "https://api.dicebear.com/7.x/shapes/svg?seed=beaded%20bracelet"
+    }
+  ],
+  "order-summary": [
+    {
+      "label": "Subtotal",
+      "value": "£23.00"
+    },
+    {
+      "label": "Shipping",
+      "value": "FREE 🎀"
+    },
+    {
+      "label": "Tax",
+      "value": "£1.84"
+    },
+    {
+      "label": "Grand Total",
+      "value": "£24.84"
+    }
+  ],
+  "product": {
+    "addToCart": "Add to Bag",
+    "backToShop": "Back to Shop",
+    "inStock": "In stock",
+    "outOfStock": "Out of stock",
+    "quantity": "Quantity",
+    "materials": [
+      "Glass seed beads",
+      "Stretchy elastic cord",
+      "Gold-tone spacer beads"
+    ],
+    "care": [
+      "Keep away from water and swimming pools",
+      "Store in a cool dry place",
+      "Put on last, take off first"
+    ],
+    "related": "You might also like 💕",
+    "viewDetails": "See Details",
+    "breadcrumbShop": "Shop",
+    "prevImage": "Previous image",
+    "nextImage": "Next image",
+    "thumbnailAlt": "Bracelet photo {n}",
+    "reviewCount": "{count} happy reviews",
+    "quantityLabel": "How many?",
+    "decreaseQty": "Decrease quantity",
+    "increaseQty": "Increase quantity",
+    "addedToCart": "Added! 🎉",
+    "wishlistLabel": "Add to wishlist",
+    "materialsTitle": "What it's made of ✨",
+    "careTitle": "How to look after it 💧",
+    "relatedTitle": "You might also love these!",
+    "relatedSubtitle": "More handmade bracelets, made just for you 🌈",
+    "ctaTitle": "Want to see everything?",
+    "ctaSubtitle": "Head back to the shop to find your perfect bracelet!",
+    "ctaButton": "Back to Shop",
+    "perks": [
+      {
+        "icon": "sparkles",
+        "label": "Handmade with love 🌸"
+      },
+      {
+        "icon": "truck",
+        "label": "Posted with care 📦"
+      },
+      {
+        "icon": "shield",
+        "label": "Happy returns 😊"
+      }
+    ],
+    "handmadeLabel": "Handmade",
+    "reviews": "Customer Reviews",
+    "colorLabel": "Colour",
+    "sizeLabel": "Size",
+    "added": "Added!",
+    "materialsLabel": "Materials",
+    "wishlist": "Add to wishlist",
+    "imageThumb": "View image",
+    "aboutTitle": "About This Product",
+    "decrease": "Decrease",
+    "increase": "Increase"
+  },
+  "shop": {
+    "heading": "All My Bracelets",
+    "subheading": "Pick a style you love — every one is one of a kind!",
+    "addToCart": "Add to Bag",
+    "title": "Pick your favourite!",
+    "subtitle": "All bracelets are handmade and ready to wear. Tap one to see it up close!",
+    "viewBtn": "See it!"
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "subheading": "Getting your bracelet is super easy and fun!",
+    "steps": [
+      {
+        "emoji": "👀",
+        "title": "Pick Your Favourite",
+        "desc": "Browse all my bracelets and tap the one you love most."
+      },
+      {
+        "emoji": "🛍️",
+        "title": "Add It to Your Bag",
+        "desc": "Hit the Add to Bag button and it goes straight into your cart."
+      },
+      {
+        "emoji": "📦",
+        "title": "I Send It to You!",
+        "desc": "I wrap it up carefully and post it to you with a little note inside."
+      }
+    ]
+  },
+  "reviews": {
+    "heading": "What people are saying 💬",
+    "subheading": "Real reviews from real bracelet fans!",
+    "items": [
+      {
+        "name": "Mia, age 9",
+        "text": "I got the Rainbow Sunshine one and I wear it every single day. My friends all want one too!",
+        "stars": 5
+      },
+      {
+        "name": "Sophie's mum",
+        "text": "Bought three as birthday presents and they arrived beautifully wrapped. The girls absolutely loved them!",
+        "stars": 5
+      },
+      {
+        "name": "Ella, age 11",
+        "text": "The Galaxy Glitter bracelet is SO sparkly. It looks amazing with everything I wear.",
+        "stars": 5
+      }
+    ],
+    "basedOn": "Based on",
+    "reviews": "See what others love about these bracelets",
+    "title": "What people say",
+    "subtitle": "Real reviews from real bracelet fans!"
+  },
+  "breadcrumb": {
+    "shop": "Shop"
+  },
+  "perks": {
+    "items": [
+      {
+        "label": "Free UK Delivery",
+        "desc": "On all orders over £10"
+      },
+      {
+        "label": "Easy Returns",
+        "desc": "7-day no-fuss returns"
+      },
+      {
+        "label": "Safe & Secure",
+        "desc": "Handmade with care"
+      },
+      {
+        "label": "Unique & Special",
+        "desc": "No two are the same!"
+      }
+    ]
+  },
+  "related": {
+    "heading": "You might also love 🌈"
+  },
+  "valueProps": {
+    "title": "Why my bracelets are special",
+    "subtitle": "I put lots of love into every single one!",
+    "items": [
+      {
+        "icon": "heart",
+        "title": "Made by hand",
+        "desc": "I make every bracelet myself at my craft table. No machines, just me and my beads!"
+      },
+      {
+        "icon": "sparkles",
+        "title": "Bright and sparkly",
+        "desc": "I only use the shiniest, most colourful beads I can find. Your wrist will look amazing!"
+      },
+      {
+        "icon": "truck",
+        "title": "Sent with care",
+        "desc": "Each bracelet is wrapped in tissue paper and posted in a little gift bag. So exciting to open!"
+      },
+      {
+        "icon": "refresh",
+        "title": "Made to last",
+        "desc": "I use strong elastic so your bracelet stays on all day, even at the park or the pool!"
+      }
+    ]
+  }
+}

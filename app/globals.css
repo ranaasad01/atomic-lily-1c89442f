@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Comic+Neue:wght@300;400;700&display=swap');
+
+:root {
+  --background: #FFF8F2;
+  --foreground: #3B2314;
+  --card: #FFFFFF;
+  --border: #F0D9C8;
+  --muted-foreground: #8C5E45;
+  --primary: #E8735A;
+  --accent: #F2A97E;
+  --primary-hover: #D45E45;
+  --accent-light: #FDE8D8;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Baloo 2', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Baloo 2', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
